@@ -1,5 +1,7 @@
 # nutanix-clis
 
+To run Nutanix cli tools via docker. No need to install java on your local system. Plus from what I can tell some toolsets are outdate (IE using python 2.7 I'm sure Nutanix will update at some point).
+
 
 Needed files
 
