@@ -28,7 +28,7 @@ vi env.list
 ./runit.sh acli vm.list
 ./runit.sh acli vm.shutdown test test2
 
-./runit.sh ncli vm.list
+./runit.sh ncli host list
 ./runit.sh ncli storagepool list
 
 ```
