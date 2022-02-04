@@ -32,3 +32,5 @@ vi env.list
 ./runit.sh ncli storagepool list
 
 ```
+
+A jumping point started from https://github.com/pipoe2h/docker-nutanix-cli-tools But seemed a little dated. Thanks for sharing your code!
